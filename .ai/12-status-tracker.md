@@ -17,6 +17,8 @@ Date baseline: 2026-02-18
 - [x] root TypeScript base config
 - [x] eslint + prettier setup
 - [x] build/test/lint scripts
+- [x] publish-safe internal package dependency ranges (no `workspace:*` in published manifests)
+- [x] release automation scripts for ordered npm publish
 
 ## Core Package (`@erbitron/loom-weave-kit`)
 

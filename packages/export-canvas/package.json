@@ -1,6 +1,6 @@
 {
   "name": "@erbitron/loom-weave-kit-export-canvas",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Browser canvas PNG exporter for loom weave kit",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -22,6 +22,6 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "@erbitron/loom-weave-kit": "workspace:*"
+    "@erbitron/loom-weave-kit": "^0.1.1"
   }
 }
